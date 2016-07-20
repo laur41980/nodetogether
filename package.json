@@ -1,0 +1,23 @@
+{
+  "name": "nodetogether",
+  "version": "1.0.0",
+  "description": "hello!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laur41980/nodetogether.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laur41980/nodetogether/issues"
+  },
+  "homepage": "https://github.com/laur41980/nodetogether#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
